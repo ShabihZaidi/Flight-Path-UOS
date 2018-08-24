@@ -1,6 +1,7 @@
 # Flight-Path
 
 Flightpath v 0.3
+Make sure to import the variables.sql file into the database
 
 Updates - 
 
@@ -11,6 +12,7 @@ Updates -
 5. Disabled "Administrator's Toolbox" on Advising Screen  
 6. Disabled "Courses Added By Advisor" section on Advising Screen 
 7. UI enhancements
+
 
 Flightpath v 0.1
 
