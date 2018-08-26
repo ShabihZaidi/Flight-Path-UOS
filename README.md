@@ -2,7 +2,7 @@
 
 Flightpath v 0.3
 
-Make sure to import the variables.sql file into the database
+Make sure to import the variables.sql and blocks.sql file into the database
 
 Updates - 
 
