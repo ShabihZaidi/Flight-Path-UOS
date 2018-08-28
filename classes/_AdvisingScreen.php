@@ -3727,6 +3727,7 @@ function draw_menu_items($menu_array) {
 		} else {
 
 			$pC .= "
+		   <td class='tenpt underline' onClick='$js_code' width='$w4'>&nbsp&nbsp</td>
 	       <td class='tenpt underline' width='$w4' onClick='$js_code' $extra_style>$hours&nbsp;$var_hour_icon</td>
        	   <td class='tenpt underline' width='$w5' onClick='$js_code'>$grade&nbsp;</td>
        	   <td class='tenpt underline' width='$w6' onClick='$js_code'>$pts&nbsp;</td>
