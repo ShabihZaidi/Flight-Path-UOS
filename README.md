@@ -8,6 +8,7 @@ Updates -
 
 1. Fixed display issue in "Blank Degree" View
 2. Fixed display issue in "Course Search" view
+3. Fixed display issue in popup for course selection
 3. Fixed errors that appeared after posting a comment
 
 
