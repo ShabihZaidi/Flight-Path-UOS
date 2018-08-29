@@ -4503,7 +4503,7 @@ function draw_menu_items($menu_array) {
 
 		$pC .= "</select>
 				<div style='margin: 20px;' align='left'>
-				" . fp_render_button(t("Next") . " ->","document.getElementById(\"theform\").submit();") . "
+				" . fp_render_button(t("Next") ,"document.getElementById(\"theform\").submit();") . "
 				</div>
 					<!-- <input type='submit' value='submit'> -->
 					
